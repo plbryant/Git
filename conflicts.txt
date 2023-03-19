@@ -2,9 +2,16 @@ Persons
 
 Bryant
 Santiago
-Genny
-Guadalapu
 Karla
 Fabiola
 Angel
 Santiago
+
+Super Heroes
+
+Batman
+Spiderman
+Superman
+Naruto
+Luffy
+Tanjiro
