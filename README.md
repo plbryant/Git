@@ -1,4 +1,5 @@
-# Movies
+# Animes
 
-- terminator
-- interestelar
+- naruto
+- shigatsu wa kimi no uso
+- guren lagan
